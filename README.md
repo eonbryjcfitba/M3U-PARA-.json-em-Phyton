@@ -1,0 +1,3 @@
+It's very simple, just add your m3u file to the input, choose the output and you will see the json file where you selected to output... 
+
+Can be edited as it contains the .py file
